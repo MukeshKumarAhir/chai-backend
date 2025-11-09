@@ -1,0 +1,1 @@
+1. to handle images in data modelling we use third party sevice like aws , cloudnary , azure...so we tell users to upload the phota and we store it in our server temperorily.and in case of any issue we then store it in the cloudnary using third process

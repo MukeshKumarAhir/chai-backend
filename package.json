@@ -1,0 +1,17 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "it a website similar to youtube",
+  "keywords": [
+    "chai",
+    "backend",
+    "javascript"
+  ],
+  "license": "ISC",
+  "author": "mukesh kumar ahir",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
